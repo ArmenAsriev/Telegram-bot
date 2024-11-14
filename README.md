@@ -16,7 +16,7 @@ This project is a Telegram bot built with Aiogram and SQLAlchemy that connects t
 
    ```bash
    git clone https://github.com/ArmenAsriev/Telegram-bot.git
-   cd telegram-bot-aiogram
+   cd Telegram-bot
    ```
 
 2. Install dependencies:
@@ -45,7 +45,7 @@ This project is a Telegram bot built with Aiogram and SQLAlchemy that connects t
 1. Склонируйте репозиторий:
    ```bash
    git clone https://github.com/ArmenAsriev/Telegram-bot.git
-   cd telegram-bot-aiogram
+   cd Telegram-bot
    ```
 2. Установите зависимости:
    ```bash
