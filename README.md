@@ -13,12 +13,10 @@ This project is a Telegram bot built with Aiogram and SQLAlchemy that connects t
 ## Installation:
 
 1. Clone the repository:
-
    ```bash
    git clone https://github.com/ArmenAsriev/Telegram-bot.git
    cd Telegram-bot
    ```
-
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
@@ -51,7 +49,7 @@ This project is a Telegram bot built with Aiogram and SQLAlchemy that connects t
    ```bash
    pip install -r requirements.txt
    ```
-3.Запустите бота:
+3. Запустите бота:
    ```bash
    python app.py
    ```
